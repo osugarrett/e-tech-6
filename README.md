@@ -1,6 +1,6 @@
 # Empowerment Technologies 1: Computational Thinking in Python
 > **De La Salle University - Senior High School**
-> STEM 11-L | Group 6 • Term 3 Project
+> STEM 11-L | Group 6 • Term 3 AY 2025-2026
 
 ---
 
