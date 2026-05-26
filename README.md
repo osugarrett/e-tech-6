@@ -22,3 +22,6 @@ To run the scripts in this repository, you need Python 3.x installed on your mac
 ```bash
 python --version
 ```
+
+## 🤖 Disclosure of Generative AI Usage
+Generative AI (Gemini Flash 3.5) was used to generate this README. 
