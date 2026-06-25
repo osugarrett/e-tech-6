@@ -9,7 +9,6 @@ This repository contains our group's core deliverables, algorithmic solutions, a
 
 ## 👥 Group 6 Members
 * **Kyle Tiu** (`@osugarrett`) 
-* **Einer Lagamayo** 
 * **Denz Del Rosario**
 * **Marco Emperador**
 
